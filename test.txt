@@ -1,3 +1,5 @@
 hello GitHub,
 
 Created this file using Postman API
+
+Previously i missed to mention put method now i am updating the files and mention that this file is created using put method in postman
